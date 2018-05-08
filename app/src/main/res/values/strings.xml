@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ReadNewsApp</string>
+    <string name="hint">Request Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">REGISTER</string>
+    <string name="facebook_app_id">1824788937830687</string>
+    <string name="fb_login_protocol_scheme">fb1824788937830687</string>
+    <string name="action_settings">Settings</string>
+    <string name="loginfb">Login Facebook</string>
+</resources>

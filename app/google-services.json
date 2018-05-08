@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "992555172715",
+    "firebase_url": "https://loginn-44351.firebaseio.com",
+    "project_id": "loginn-44351",
+    "storage_bucket": "loginn-44351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992555172715:android:6bf5b7d0e9170b24",
+        "android_client_info": {
+          "package_name": "com.example.pc.readnewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992555172715-b3pe3jjrg1bsu50gbdj1quhdn7gmcbf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAShCJzOVytabBdTmyfWopx1hftEiljV_M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
